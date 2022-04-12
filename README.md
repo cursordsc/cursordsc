@@ -6,6 +6,7 @@
 - 👯 I like to be in projects.
 - 🥅 I like to improve myself.
 - 😻 And my favorite language is Lua.
+- 🖥️ discord.gg/44Roleplay // ! HydraDVV#1881
  
 ### Languages and Tools:
 
