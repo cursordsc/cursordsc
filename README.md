@@ -11,6 +11,8 @@
 ## My Ranks:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&langs_count=8)]
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
