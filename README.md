@@ -9,7 +9,14 @@
 - 🖥️ discord.gg/44Roleplay // ! HydraDVV#1881
  
 ## Tools & Technologies:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&layout=compact&theme=tokyonight&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&langs_count=8)
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&layout=compact&theme=tokyonight&langs_count=6)
 
 ### Languages and Tools:
 
