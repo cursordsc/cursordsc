@@ -9,9 +9,7 @@
 - 🖥️ discord.gg/44Roleplay // ! HydraDVV#1881
  
 ## My Ranks:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&langs_count=8)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&layout=compact)
 
 ### Languages and Tools:
 
