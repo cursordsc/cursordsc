@@ -23,4 +23,5 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&theme=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&theme=gray)
