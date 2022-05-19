@@ -7,7 +7,7 @@
 - 🥅 I like to improve myself.
 - 😻 And my favorite language is Lua.
 - 🖥️ Discord : [ ! HydraDVV#0049 ]
-- 🖥️ DeltaCODE : ( https://discord.gg/euMynFHEBQ )
+- 🖥️ Delta CODE : ( https://discord.gg/euMynFHEBQ )
  
 ## Tools & Technologies:
 
