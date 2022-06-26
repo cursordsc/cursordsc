@@ -2,12 +2,12 @@
 
 ## I'm new, and I'm trying to improve myself in these areas. ( Lua, HTML - CSS, JavaScript )!!
 
-- 🌱 I am currently working as an editor.
+- 🌱 I am trying to become a freelancer developer.
 - 👯 I like to be in projects.
 - 🥅 I like to improve myself.
 - 😻 And my favorite language is Lua.
-- 🖥️ Discord : [ ! HydraDVV#0049 ]
-- 🖥️ Delta CODE : ( https://discord.gg/euMynFHEBQ )
+- 🖥️ Discord : [ ! HydraDWV#0049 ]
+- 🖥️ Square CODE : ( https://discord.gg/euMynFHEBQ )
  
 ## Tools & Technologies:
 
