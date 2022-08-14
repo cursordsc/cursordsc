@@ -6,8 +6,8 @@
 - 👯 I like to be in projects.
 - 🥅 I like to improve myself.
 - 😻 And my favorite language is Lua.
-- 🖥️ Discord : [ ! HydraDWV#0049 ]
-- 🖥️ Square CODE : ( https://discord.gg/euMynFHEBQ )
+- 🖥️ Discord : [ !               ‘curs>r#0049 ]
+- 🖥️ Domain: ( https://hydra-homepage.com )
  
 ## Tools & Technologies:
 
