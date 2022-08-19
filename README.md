@@ -7,7 +7,7 @@
 - 🥅 I like to improve myself.
 - 😻 And my favorite language is Lua.
 - 🖥️ Discord : [ !               ‘curs>r#0049 ]
-- 🖥️ Domain: ( https://hydra-homepage.com )
+- 🖥️ Domain: ( soon! / https://www.hydra-homepage.com )
  
 ## Tools & Technologies:
 
