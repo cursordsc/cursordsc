@@ -8,6 +8,7 @@
 - 😻 And my favorite language is Lua.
 - 🖥️ Discord : [ !               ‘curs>r#0049 ]
 - 🖥️ Domain: ( soon! / https://www.hydra-homepage.com )
+- 🖥️ Linkedin: ( https://www.linkedin.com/in/arda-y%C4%B1ld%C4%B1z-8a12a3249/ )
  
 ## Tools & Technologies:
 
