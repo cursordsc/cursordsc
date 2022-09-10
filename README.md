@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hydra_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hydra_dv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arda yıldız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda yıldız" height="30" width="40" /></a>
 <a href="https://instagram.com/arda.y1ldiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda.y1ldiz_" height="30" width="40" /></a>
 </p>
 
@@ -27,9 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
 
-
 ## Tools & Technologies:
 
- 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
