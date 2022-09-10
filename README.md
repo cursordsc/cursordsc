@@ -1,32 +1,32 @@
-# Hi there, I'm Arda - ( HydraDVV👋 )
+<h1 align="center">Hi 👋, I'm Arda Yıldız</h1>
+<h3 align="center">I'm trying to become a full-stack developer.</h3>
 
-## I'm new, and I'm trying to improve myself in these areas. ( Lua, HTML - CSS, JavaScript )!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hydradvv&label=Profile%20views&color=0e75b6&style=flat" alt="hydradvv" /> </p>
 
-- 🌱 I am trying to become a freelancer developer.
-- 👯 I like to be in projects.
-- 🥅 I like to improve myself.
-- 😻 And my favorite language is Lua.
-- 🖥️ Discord : [ !               ‘curs>r#0049 ]
-- 🖥️ Domain: ( https://www.hydra-homepage.com )
-- 🖥️ Linkedin: ( https://www.linkedin.com/in/arda-y%C4%B1ld%C4%B1z-8a12a3249/ )
- 
-## Tools & Technologies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydradvv" alt="hydradvv" /></a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HydraDVV&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDVV&layout=compact&theme=tokyonight&langs_count=6)
+<p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
 
-### Languages and Tools:
+- 🔭 I’m currently working on **JavaScript and Lua**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="26px" src="https://camo.githubusercontent.com/2fa3e4f59131595eaf00e1dc6918475a7bdda041e1ff2df70599afc744038cc2/687474703a2f2f75706c6f61642e7475726b636577696b692e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4c75612d4c6f676f2e7376672f3132303070782d4c75612d4c6f676f2e7376672e706e67" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+- 🌱 I’m currently learning **Network, Frameworks**
 
+- 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+
+- 📫 How to reach me **ihydradevv@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hydra_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hydra_dv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arda yıldız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda yıldız" height="30" width="40" /></a>
+<a href="https://instagram.com/arda.y1ldiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda.y1ldiz_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydradvv&show_icons=true&locale=en&layout=compact" alt="hydradvv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hydradvv&show_icons=true&locale=en" alt="hydradvv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydradvv&" alt="hydradvv" /></p>
