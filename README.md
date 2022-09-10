@@ -22,12 +22,15 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>                           
 
 <!-- Burası kendi hakkımda alanım.-->
+------------------------------
 
 - 🔭 I’m currently working on **JavaScript and Lua.**
 
 - 🌱 I’m currently learning **Network, Frameworks, Backend.**
 
 - 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+
+------------------------------
 
 <!-- Toolların devamı.-->
 
