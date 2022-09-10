@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
-<p align="left">
-<a href="https://instagram.com/arda.y1ldiz_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arda.y1ldiz_" height="30" width="40" /></a>
+<p align="left"> <a href="https://instagram.com/arda.yi1diz_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arda.yi1diz_" /></a> </p>
 </p>
 </p>
 
