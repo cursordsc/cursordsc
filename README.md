@@ -18,6 +18,7 @@
 </p>
 
 <!-- Bu kısımda birkaç adet tool var.-->
+------------------------------
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>                           
 
