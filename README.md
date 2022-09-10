@@ -10,6 +10,7 @@
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihydradevv@gmail.com)
 
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2.-->
+------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
