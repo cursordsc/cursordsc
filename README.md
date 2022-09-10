@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
-<p align="topleft"> <a href="https://instagram.com/arda.yi1diz_" target="blank"><img src="https://img.shields.io/twitter/follow/arda.yi1diz_"?logo=twitter&style=for-the-badge" alt="arda.yi1diz_" /></a> </p>
+<p align="left"> <a href="https://instagram.com/arda.yi1diz_" target="blank"><img src="https://img.shields.io/instagram/follow/arda.yi1diz_"?logo=instagram&style=for-the-badge" alt="arda.yi1diz_" /></a> </p>
 </p>
 
 <!-- Bu kısımda birkaç adet tool var.-->
