@@ -1,4 +1,5 @@
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
+<h1 align="center">Hi 👋, I'm Arda Yıldız</h1>
+<h3 align="center">I'm trying to become a full-stack developer.</h3>
 
 # CONTACT ME
 
