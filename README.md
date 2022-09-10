@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
 <p align="left">
-<a href="https://instagram.com/arda.y1ldiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda.y1ldiz_" height="30" width="40" /></a>
+<a href="https://instagram.com/arda.y1ldiz_" target="blank"><img align="center" src="?style=for-the-badge&logo=instagram" alt="arda.y1ldiz_" height="30" width="40" /></a>
 </p>
 </p>
 
