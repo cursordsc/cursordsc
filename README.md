@@ -10,6 +10,5 @@
 
 ## Tools & Technologies:
 
- ![3d](https://github.com/HydraDVV/HydraDVV/blob/main/profile-3d-contrib/profile-night-green.svg)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
