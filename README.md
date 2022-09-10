@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arda Yıldız</h1>
 <h3 align="center">I'm trying to become a full-stack developer.</h3>
 
+<!-- Bu kısımda ise benim hakkımda iletişim kısımları var.-->
+
 # CONTACT ME
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/HydraDVV)
