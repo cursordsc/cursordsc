@@ -19,9 +19,7 @@
 
 <!-- Bu kısımda birkaç adet tool var.-->
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>                                                                                             
-
-<p align="left"> <a href="https://instagram.com/arda.y1ldiz_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda.y1ldiz_" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>                           
 
 <!-- Burası kendi hakkımda alanım.-->
 
