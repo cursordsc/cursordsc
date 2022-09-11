@@ -19,9 +19,7 @@
 </p>
 
 <!-- Bu kısımda birkaç adet tool var.-->
-------------------------------
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>                           
+                       
 
 <!-- Burası kendi hakkımda alanım.-->
 ------------------------------
@@ -40,7 +38,9 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
- 
+ ------------------------------
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>    
  ------------------------------
 <!-- pngler.-->
  
