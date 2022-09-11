@@ -12,9 +12,9 @@
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2.-->
 ------------------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hydradvv&label=Profile%20views (GitHub)&color=0e75b6&style=for-the-badge" alt="hydradvv" /> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hydradvv&label=Profile%20views (GitHub)&color=0e75b6&style=for-the-badge" alt="hydradvv" /> </p>
 </p>
 </p>
 
@@ -26,9 +26,9 @@
 
 - <h3 align="center">🔭 I’m currently working on **JavaScript and Lua.**</h3>
 
-- 🌱 I’m currently learning **Network, Frameworks, Backend.**
+- <h3 align="center">🌱 I’m currently learning **Network, Frameworks, Backend.**</h3>
 
-- 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+- <h3 align="center">👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)</h3>
 
 ------------------------------
 
