@@ -1,9 +1,10 @@
+
 <h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h1>
 <h3 align="center">I'm trying to become a full-stack developer.</h3>
 
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var.-->
 
-<h3 align="center"># Contact ME.</h3>
+# CONTACT ME
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/HydraDVV)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-y%C4%B1ld%C4%B1z-8a12a3249/)
@@ -12,9 +13,9 @@
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2.-->
 ------------------------------
 
-<h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hydradvv&label=Profile%20views (GitHub)&color=0e75b6&style=for-the-badge" alt="hydradvv" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hydradvv&label=Profile%20views (GitHub)&color=0e75b6&style=for-the-badge" alt="hydradvv" /> </p>
 </p>
 </p>
 
@@ -24,11 +25,11 @@
 <!-- Burası kendi hakkımda alanım.-->
 ------------------------------
 
-- <h3 align="center">🔭 I’m currently working on **JavaScript and Lua.**</h3>
+- 🔭 I’m currently working on **JavaScript and Lua.**
 
-- <h3 align="center">🌱 I’m currently learning **Network, Frameworks, Backend.**</h3>
+- 🌱 I’m currently learning **Network, Frameworks, Backend.**
 
-- <h3 align="center">👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)</h3>
+- 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
 
 ------------------------------
 
@@ -36,9 +37,8 @@
 
 ## Tools & Technologies:
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats" /> </p>
-
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true" /> </p>
+ [![GitHub Streak]<p align="center"(https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
  ------------------------------
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>    
