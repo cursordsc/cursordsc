@@ -33,7 +33,7 @@
 
 ------------------------------
 
-<!-- Toolların devamı.-->
+<!-- Toolların devamı-->
 
 ## Tools & Technologies:
 
