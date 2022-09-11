@@ -24,7 +24,7 @@
 <!-- Burası kendi hakkımda alanım.-->
 ------------------------------
 
-- 🔭 I’m currently working on **JavaScript and Lua.**
+- <h3 align="center">🔭 I’m currently working on **JavaScript and Lua.**</h3>
 
 - 🌱 I’m currently learning **Network, Frameworks, Backend.**
 
