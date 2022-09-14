@@ -1,5 +1,5 @@
 
-<h1 align="right"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h1>
+<h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h1>
 <h3 align="center">I'm trying to become a full-stack developer.</h3>
 
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var..-->
@@ -35,6 +35,7 @@
 ## Tools & Technologies:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
+ <p align="right"> <img src="https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true" /> </p>
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
  ------------------------------
 
