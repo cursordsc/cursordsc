@@ -40,7 +40,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDVV&theme=tokyonight" alt="hydradvv" /> </p>    
 
-<!-- pngler.-->
+<!-- pngler..-->
  
 ## Tools & OS: 
  
