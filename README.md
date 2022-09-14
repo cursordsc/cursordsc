@@ -35,7 +35,6 @@
 ## Tools & Technologies:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDVV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
- <p align="right"> <img src="https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true" /> </p>
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDVV&count_private=true&theme=tokyonight&showicons=true)
  ------------------------------
 
