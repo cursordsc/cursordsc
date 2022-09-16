@@ -19,7 +19,7 @@
 </p>
 </p>                    
 
-<!-- Burası kendi hakkımda alanım..-->
+<!-- Burası kendi hakkımda alanım.-->
 ------------------------------
 
 - 🔭 I’m currently working on **JavaScript and Lua.**
