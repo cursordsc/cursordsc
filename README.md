@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-y%C4%B1ld%C4%B1z-8a12a3249/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihydradevv@gmail.com)
 
-<!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2.-->
+<!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2..-->
 ------------------------------
 
 <h3 align="left">Connect with me:</h3>
