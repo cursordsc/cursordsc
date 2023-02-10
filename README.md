@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Network, Frameworks, Backend.**
 
-- 👨‍💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+- 👨💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
 
 ------------------------------
 
