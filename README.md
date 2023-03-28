@@ -6,7 +6,7 @@
 
 # CONTACT ME
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/HydraDWV)
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/cursordsc)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-y%C4%B1ld%C4%B1z-8a12a3249/)
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihydradevv@gmail.com)
 
@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Network, Frameworks, Backend.**
 
-- 👨💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+- 💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
 
 ------------------------------
 
@@ -34,8 +34,8 @@
 
 ## Tools & Technologies:
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HydraDWV&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HydraDWV&count_private=true&theme=tokyonight&showicons=true)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cursordsc&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
+ ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cursordsc&count_private=true&theme=tokyonight&showicons=true)
  ------------------------------
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDWV&theme=tokyonight" alt="hydradvv" /> </p>    
