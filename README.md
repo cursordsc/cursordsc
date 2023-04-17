@@ -38,7 +38,7 @@
  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cursordsc&count_private=true&theme=tokyonight&showicons=true)
  ------------------------------
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HydraDWV&theme=tokyonight" alt="cursordsc" /> </p>    
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=cursordsc&theme=tokyonight" alt="cursordsc" /> </p>    
 
 <!-- pngler..-->
  
