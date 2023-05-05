@@ -34,8 +34,10 @@
 
 ## Tools & Technologies:
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cursordsc&theme=tokyonight&stroke=DD2727&sideNums=DD2727&dates=DD2727)](https://git.io/streak-stats)
- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cursordsc&count_private=true&theme=tokyonight&showicons=true)
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=cursordsc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=cursordsc" height="150" alt="languages graph"  />
+</div>
  ------------------------------
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=cursordsc&theme=tokyonight" alt="cursordsc" /> </p>    
