@@ -15,9 +15,7 @@
 
 - 🔭 I’m currently working on **JavaScript and Lua.**
 
-- 🌱 I’m currently learning **Network, Frameworks, Backend.**
-
-- 💻 All of my projects are available at [https://hydra-homepage.com/](https://hydra-homepage.com/)
+- 🌱 I’m currently learning **front-end**
 
 ------------------------------
 
