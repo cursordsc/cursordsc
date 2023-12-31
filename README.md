@@ -8,14 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/cursordsc)
 
-<!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2..-->
-------------------------------
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/hydra_dv" target="blank"><img src="https://img.shields.io/twitter/follow/hydra_dv?logo=twitter&style=for-the-badge" alt="hydra_dv" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cursordsc&label=Profile%20views (GitHub)&color=0e75b6&style=for-the-badge" alt="cursordsc" /> </p>
-</p>
-</p>                    
+<!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2..-->             
 
 <!-- Burası kendi hakkımda alanım-->
 ------------------------------
