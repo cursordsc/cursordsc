@@ -10,13 +10,6 @@
 
 <!-- Bu kısımda ise benim hakkımda iletişim kısımları var V2..-->             
 
-<!-- Burası kendi hakkımda alanım-->
-------------------------------
-
-- 🔭 I’m currently working on **JavaScript and Lua.**
-
-- 🌱 I’m currently learning **front-end**
-
 ------------------------------
 
 <!-- Toolların devamı.-->
