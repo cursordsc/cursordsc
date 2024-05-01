@@ -21,9 +21,9 @@
 ### Studying in this moment:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cursordsc}/count.svg" /></p> 
+<div align="left">
+  <br><p align="left"><b>Visitors Count</b></p>  
+  <p align="left"><img align="center" src="https://profile-counter.glitch.me/{cursordsc}/count.svg" /></p> 
   <br>
 </div>
 
