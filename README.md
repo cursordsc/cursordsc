@@ -17,13 +17,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Studying in this moment:
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-<div align="left">
-  <br><p align="left"><b>Visitors Count</b></p>  
-  <p align="left"><img align="center" src="https://profile-counter.glitch.me/{cursordsc}/count.svg" /></p> 
-  <br>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=196464&height=120&section=footer"/>
